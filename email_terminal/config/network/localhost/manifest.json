@@ -1,0 +1,19 @@
+{
+    "serverAddress": "localhost",
+    "serverName": "Reception",
+    "iconName": "Monarch Symbol.png",
+    "terminalID": "22B",
+    "defaultUser": {
+        "userId": "22B01",
+        "password": "M0nArcH",
+        "userName": "Alicia22B01"
+    },
+    "initialHistory": {
+        "user": [
+            "login admin@admin"
+        ],
+        "admin": [
+            "ping fbi.gov"
+        ]
+    }
+}
